@@ -12,7 +12,8 @@
 		"shortTitle": "{{PACKAGE_SHORTTITLE}}",
 		"info": "{{PACKAGE_INFO}}",
 		"description": "{{PACKAGE_DESCRIPTION}}",
-		"tags": {
+		"vendor": "Vendor Name Example"
+                "tags": {
 			"keywords": [
 				"{{PACKAGE_KEYWORD1}}",
 				"{{PACKAGE_KEYWORD2}}"
