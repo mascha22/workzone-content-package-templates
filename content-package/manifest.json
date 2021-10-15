@@ -12,7 +12,7 @@
 		"shortTitle": "{{PACKAGE_SHORTTITLE}}",
 		"info": "{{PACKAGE_INFO}}",
 		"description": "{{PACKAGE_DESCRIPTION}}",
-		"vendor": "Vendor Name Example"
+		"vendor": "Vendor Name Example",
                 "tags": {
 			"keywords": [
 				"{{PACKAGE_KEYWORD1}}",
