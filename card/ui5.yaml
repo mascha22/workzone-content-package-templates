@@ -1,9 +1,9 @@
 specVersion: "2.0"
 metadata:
-  name: sap-workzone-cpkg-card-sample
+  name: tsys-workzone-card-sample
   copyright: |-
-   SAP Work Zone
-    * (c) Copyright 2009-${currentYear} SAP SE or an SAP affiliate company.
+   T-Systems Work Zone
+    * (c) Copyright ${currentYear} T-Systems Internaional GmbH.
 type: application
 resources:
   configuration:

@@ -1,4 +1,4 @@
-ID: simple-approval
+ID: tsys-approval
 _schema-version: '2.1'
 version: 1.0.0
 modules:
@@ -6,11 +6,11 @@ modules:
     type: com.sap.application.content
     path: workflow
     requires:
-      - name: workflow_simple-approval
+      - name: workflow_tsys-approval
         parameters:
           content-target: true
 resources:
-  - name: workflow_simple-approval
+  - name: workflow_tsys-approval
     parameters:
       service-plan: standard
       service: workflow

@@ -1,7 +1,7 @@
 {
 	"_version": "1.18.0",
 	"sap.artifact": {
-		"id": "cpkg.project.template.workflow",
+		"id": "tsys.project.template.workflow",
 		"type": "workflow",
 		"i18n": "i18n/i18n.properties",
 		"title": "{{TITLE}}",

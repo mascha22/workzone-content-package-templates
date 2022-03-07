@@ -1,5 +1,5 @@
 {
-  "name": "sap-workzone-cpkg-tools",
+  "name": "tsys-workzone-tools",
   "description": "Build tools to create content packages and their content artifacts",
   "version": "1.0.0",
   "repository": {

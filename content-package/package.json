@@ -1,5 +1,5 @@
 {
-  "name": "sap-workzone-content-package-sample",
+  "name": "tsys-workzone-content-package-sample",
   "description": "Template for a content package",
   "version": "1.0.0",
   "scripts": {

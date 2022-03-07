@@ -1,5 +1,5 @@
 {
-  "name": "sap-workzone-cpkg-workflow-sample",
+  "name": "tsys-workzone-workflow-sample",
   "version": "1.0.0",
   "description": "Sample project structure for a workflow artifact that will be included into a content package",
   "scripts": {

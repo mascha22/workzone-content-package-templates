@@ -1,6 +1,6 @@
 {
 	"sap.package": {
-		"id": "sap.workzone.content.package.sample",
+		"id": "tsys.workzone.content.package.sample",
 		"packageVersion": {
 			"version": "1.0.0",
 			"upgradeNotification": "all"

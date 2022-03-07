@@ -1,5 +1,5 @@
 {
-  "name": "sap-workzone-cpkg-homepage-sample",
+  "name": "tsys-workzone-homepage-sample",
   "version": "1.0.0",
   "description": "Sample project structure for a homepage artifact that will be included into a content package",
   "scripts": {

@@ -1,7 +1,7 @@
 {
 	"_version": "1.18.0",
 	"sap.app": {
-		"id": "sap.workzone.cpkg.card.sample",
+		"id": "tsys.workzone.card.sample",
 		"type": "card",
 		"i18n": "i18n/i18n.properties",
 		"title": "{{TITLE}}",
