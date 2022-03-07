@@ -9,6 +9,16 @@
       "manifest": "src/manifest.json"
     }
   },
+  "listcard-sample": {
+    "type": "card",
+    "src": {
+      "from": "../cardListSample",
+      "path": "./",
+      "build": "npm i && npm run-script build",
+      "package": "tsys-workzone-cpkg-card-listsample.zip",
+      "manifest": "src/manifest.json"
+    }
+  },
   "journey-card-sample": {
     "type": "card",
     "src": {
