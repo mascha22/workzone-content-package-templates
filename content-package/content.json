@@ -1,4 +1,28 @@
 {
+  "newsCard":
+    {
+      "type": "card",
+      "src": {
+        "git": "https://github.com/mascha22/newsCard.git",
+        "branch": "master",
+        "path": "./",
+        "build": "npm i && npm run-script build",
+        "package": "tsys-newsCard.zip",
+        "manifest": "src/manifest.json"
+      }
+    },
+    "newsFeedCard":
+    {
+      "type": "card",
+      "src": {
+        "git": "https://github.com/mascha22/newsFeedCard.git",
+        "branch": "master",
+        "path": "./",
+        "build": "npm i && npm run-script build",
+        "package": "tsys-newsFeedCard.zip",
+        "manifest": "src/manifest.json"
+      }
+    },
   "card-sample": {
     "type": "card",
     "src": {
