@@ -92,5 +92,15 @@
       "package": "tsys-workzone-workspace-sample.zip",
       "manifest": "src/manifest.json"
     }
+  },
+  "homepage-sample": {
+    "type": "homepage",
+    "src": {
+      "from": "../homepage",
+      "path": "./",
+      "build": "npm i && npm run-script build",
+      "package": "tsys-workzone-homepage-sample.zip",
+      "manifest": "src/manifest.json"
+    }
   }
 }

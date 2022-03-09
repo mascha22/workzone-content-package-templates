@@ -12,7 +12,7 @@
 		"shortTitle": "{{PACKAGE_SHORTTITLE}}",
 		"info": "{{PACKAGE_INFO}}",
 		"description": "{{PACKAGE_DESCRIPTION}}",
-		"vendor": "Vendor Name Example",
+		"vendor": "T-Systems",
                 "tags": {
 			"keywords": [
 				"{{PACKAGE_KEYWORD1}}",
@@ -28,10 +28,10 @@
 		},
 		"homepage": {
 			"text": "",
-			"url": "https://sap.com"
+			"url": "https://tsystems.com"
 		},
 		"support": {
-			"url": "https://support.sap.com"
+			"url": "https://support.tsystems.com"
 		},
 		"contents": [
 			"__BUILD__"
